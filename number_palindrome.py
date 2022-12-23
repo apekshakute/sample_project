@@ -1,5 +1,7 @@
-ip=int(input("input  :"))
+#ip=int(input("input  :"))
+ip="128"
 input_1=ip
+
 found=False
 while(found==False):
     str1=str(input_1)[::-1]
